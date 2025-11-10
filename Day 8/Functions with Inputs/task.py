@@ -22,3 +22,6 @@ greet_with_name("Astle")
 The name is parameter. When we create a function with user-defined values those are known as parameters. 
 The Astle is argument. when we pass a value to that variable it's known as argument.
 '''
+
+
+#  To parameters
