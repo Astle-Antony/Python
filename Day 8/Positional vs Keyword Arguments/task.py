@@ -22,19 +22,23 @@
 # print (f"{hello}{my}")
 
 
-def calculate_love_score(name1, name2):
-    TRUE = 0
-    LOVE = 0
+# def calculate_love_score(name1, name2):
+#     TRUE = 0
+#     LOVE = 0
+#
+#     full_name = name1 + name2
+#     for i in full_name:
+#         if(i == "T" or i == "t"or i == "R" or i == "r"or i == "U" or i == "u"or i == "E"or i == "e"):
+#             TRUE += 1
+#
+#     for i in full_name:
+#         if(i == "L" or i == "l" or i == "O" or i == "o"or i == "V" or i == "v"or i == "E"or i == "e"):
+#             LOVE += 1
+#     print(f"Love Score = {TRUE}{LOVE}")
+#
+#
+# calculate_love_score("Kanye West", "Kim Kardashian")
 
-    full_name = name1 + name2
-    for i in full_name:
-        if(i == "T" or i == "t"or i == "R" or i == "r"or i == "U" or i == "u"or i == "E"or i == "e"):
-            TRUE += 1
 
-    for i in full_name:
-        if(i == "L" or i == "l" or i == "O" or i == "o"or i == "V" or i == "v"or i == "E"or i == "e"):
-            LOVE += 1
-    print(f"Love Score = {TRUE}{LOVE}")
-
-
-calculate_love_score("Kanye West", "Kim Kardashian")
+print(8*7000)
+print(7*11500)
